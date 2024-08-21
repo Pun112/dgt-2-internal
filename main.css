@@ -1,3 +1,177 @@
-h1 {
-    background-color: aqua;
-}
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime'); 
+
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy'); 
+
+@import url('https://fonts.googleapis.com/css?family=Oooh+Baby'); 
+
+ 
+
+body { 
+
+  width: 800px; 
+
+  padding: 30px; 
+
+  font-family: 'Courier Prime'; 
+
+  color: white; 
+
+  background-color: #3E4961; 
+
+  margin: 0; 
+
+} 
+
+h1 { 
+
+  font-family: 'Luckiest Guy';  
+
+  font-size: 68px; 
+
+  color: orange; 
+
+  text-align: center; 
+
+} 
+
+h2 { 
+
+  font-size: 36px;  
+
+  color: #9ca176; 
+
+  margin: 0; 
+
+} 
+
+.header { 
+
+   width: 100%; 
+
+  padding: 10px 50px; 
+
+} 
+
+.slogan { 
+
+  font-family: 'Oooh Baby';  
+
+  text-align: right; 
+
+  color: #1083c4; 
+
+  font-size: 48px; 
+
+} 
+
+.navigation { 
+
+  height: 100%; 
+
+  width: 200px; 
+
+  position: fixed; 
+
+  z-index: 1; 
+
+  top: 0; 
+
+  left: 0; 
+
+  background-color: #111; 
+
+  overflow-x: hidden; 
+
+  padding-top: 16px; 
+
+  margin-top: 300px;  
+
+} 
+
+.navigation a { 
+
+  padding: 6px 8px 6px 16px; 
+
+  text-decoration: none; 
+
+  font-size: 18px; 
+
+  color: #818181; 
+
+  display: block;   
+
+} 
+
+.navigation a:hover { 
+
+  color: #f1f1f1; 
+
+} 
+
+.main-content, .related { 
+
+  margin-top: 30px; 
+
+  margin-left: 200px; /* Same as the width of the sidenav */ 
+
+  padding: 0px 10px; 
+
+} 
+
+.featured { 
+
+  width: 710px;  
+
+  margin: 5px auto; 
+
+} 
+
+ 
+
+.related-post { 
+
+  width: 250px; 
+
+  display: inline-block; 
+
+  vertical-align: top; 
+
+  padding: 10px; 
+
+} 
+
+.related-post img { 
+
+  width: 80%; 
+
+  border-radius: 25px; 
+
+} 
+
+.quote { 
+
+  font-family: 'Oooh Baby'; 
+
+  color: hotpink; 
+
+  font-size: 50px; 
+
+  font-style: italic; 
+
+  padding: 35px 10px; 
+
+  text-align: right; 
+
+  margin: 35px 0; 
+
+} 
+
+.sig { 
+
+  color: orange; 
+
+  font-size: 24px; 
+
+  font-weight: bold; 
+
+} 
