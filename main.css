@@ -14,9 +14,9 @@ body {
 
   font-family: 'Courier Prime'; 
 
-  color: white; 
+  color: black; 
 
-  background-color: #3E4961; 
+  background-color: white; 
 
   margin: 0; 
 
@@ -28,7 +28,7 @@ h1 {
 
   font-size: 68px; 
 
-  color: orange; 
+  color: green; 
 
   text-align: center; 
 
@@ -38,7 +38,7 @@ h2 {
 
   font-size: 36px;  
 
-  color: #9ca176; 
+  color: red; 
 
   margin: 0; 
 
