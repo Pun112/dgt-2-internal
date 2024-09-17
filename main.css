@@ -33,7 +33,7 @@ h4 {
 
   color: black; 
 
-  text-align:  right; 
+  text-align:  Right; 
 
 }
 
@@ -123,10 +123,10 @@ h2 {
 
 .featured { 
 
-  width: 710px;  
-
+  width: 600px;  
+height: 400px;
   margin: 5px auto; 
-
+text-align: right;
 } 
 
  
@@ -160,3 +160,6 @@ h2 {
   font-weight: bold; 
 
 } 
+p {
+  text-align: left center;
+}
