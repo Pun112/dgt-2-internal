@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime'); 
+
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy'); 
+
+@import url('https://fonts.googleapis.com/css?family=Oooh+Baby'); 
+
+ 
+
 body { 
 
   width: 800px; 
@@ -16,7 +24,7 @@ body {
 
 h1 { 
 
-  font-family: 'Intersting Recipes Around The World';  
+  font-family: 'Luckiest Guy';  
 
   font-size: 68px; 
 
@@ -24,18 +32,7 @@ h1 {
 
   text-align: center; 
 
-}
-h4 { 
-
-  font-family: 'Japanese';  
-
-  font-size: 68px; 
-
-  color: black; 
-
-  text-align:  Right; 
-
-}
+} 
 
 h2 { 
 
@@ -50,7 +47,14 @@ h2 {
 .header { 
 
    width: 100%; 
+ 
 
+
+
+
+
+
+   
   padding: 10px 50px; 
 
 } 
@@ -123,10 +127,10 @@ h2 {
 
 .featured { 
 
-  width: 600px;  
-height: 400px;
+  width: 710px;  
+
   margin: 5px auto; 
-text-align: right;
+
 } 
 
  
@@ -150,6 +154,7 @@ text-align: right;
   border-radius: 25px; 
 
 } 
+ 
 
 .sig { 
 
@@ -159,7 +164,7 @@ text-align: right;
 
   font-weight: bold; 
 
-} 
+}
 p {
   text-align: left center;
-}
+} 
